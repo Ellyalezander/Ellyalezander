@@ -63,7 +63,7 @@ The goal is to turn real-world event data into transparent, actionable intellige
 
 Jira · Confluence · Smartsheet · Asana · Monday.com · Microsoft Project
 
-**Cloud & Development**
+**Technology Platforms**
 
 GitHub · Supabase · Vercel · APIs · OAuth
 
